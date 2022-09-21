@@ -1,0 +1,20 @@
+*{
+    background-color:lavenderblush;
+    color:cornflowerblue;
+}
+
+
+#titulo{
+    color: red;
+    text-align: center;
+
+}
+/*ASÍ SE CREAN LAS CLASES, CON CUALQUIER NOMBRE MENOS NÚM */
+
+.centrar{
+    text-align: center;
+      
+}
+.texto_grande{
+    font-size: 20px;
+}

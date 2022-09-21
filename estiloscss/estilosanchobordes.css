@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color:midnightblue;
+}
+.punteado{
+    border-style: dotted;
+    border-width: 10px 5px 3px 2px;
+}
+.discontinuo{
+    border-style: dashed;
+    border-width: thick;
+}
+.solido{
+    border: 10px solid powderblue;
+    border-width: 10px 5px 2px;
+}
+.doble{
+    border: 5px double dodgerblue;
+    border-width: 10px 5px;
+}
+
